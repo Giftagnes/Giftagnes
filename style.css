@@ -1,0 +1,59 @@
+/* This a comment */
+/*
+colors: Names,hexadecimal values,rgba,rgb,hsl
+
+*/
+
+body {
+    background-color: gray;
+    color: #ccc;
+    font-family: Licida sans, Arial, Helvetica, sans-serif;
+    font-weight:800;
+    font:normal 18px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    margin:0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+a:active {
+    color:hotpink;
+}
+a:visited {
+    color: darkgoldenrod;
+}
+.container {
+    width: 80%
+    margin: auto;
+}
+
+.box-1 {
+    background-color: indigo;
+    color:rgb(253, 253, 253);
+    border-right: 5px solid blue;
+    border-left: dash blue;
+    border-bottom: 100px dotted blue;
+    border-top: 10px solid blue;
+    border-top-style: solid;
+    padding: 20px;
+}
+
+.box-1 h1 {
+  font-family: Tahoma;
+  font-weight: 900;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: o.2em;
+  word-spacing: 1em;
+}
+
+border-radius: 10px
+border:5px dotted blue;
+}
+
+.likes li{
+    padding-bottom: 6px;
+    border-bottom: dashed 1px #3;
+}
